@@ -1,0 +1,26 @@
+1. The frontend done by using Tailwind css
+2. font size adjustment -> text-4xl: for mobile | md:text-6xl: for tablets/laptops | xl:text-7xl: for large desktops | 2xl:text-8xl: for full HD (1920×1080) and larger
+3.  | Class                             | Purpose                             |
+    | --------------------------------- | ----------------------------------- |
+    | `text-lg`                         | Makes the text larger               |
+    | `py-3 px-8`                       | Increases padding (bigger button)   |
+    | `rounded-2xl`                     | More border radius for rounded look |
+    | `hover:bg-white hover:text-black` | Clean hover                         |
+    | `transition duration-300`         | Smooth effect                       |
+
+4.  | Tailwind Class           | Font Size       | Example Use               |
+    | ------------------------ | --------------- | ------------------------- |
+    | `text-sm`                | 0.875rem (14px) | Small text or captions    |
+    | `text-base`              | 1rem (16px)     | Default body text         |
+    | `text-lg`                | 1.125rem (18px) | Slightly larger than base |
+    | `text-xl`                | 1.25rem (20px)  | Headings or subtitles     |
+    | `text-2xl`               | 1.5rem (24px)   | Subheadings               |
+    | `text-3xl`               | 1.875rem (30px) | Prominent headings        |
+    | `text-4xl`               | 2.25rem (36px)  | Hero section titles       |
+    | `text-5xl`               | 3rem (48px)     | Large headings            |
+    | `text-6xl` to `text-9xl` | Up to 128px     | Hero banners, branding    |
+
+5. Swiper css for carousel    
+6. I've added the pagination for products - Natural Stones page
+7. For the mobile added Filter button - Natural Stones page
+8. If you need to fix any issues with the sidebar of naturals stones page, kindly check the both sidebar pages of the natural stones File
